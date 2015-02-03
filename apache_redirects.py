@@ -27,6 +27,7 @@ HEADER = \
 """#
 # THIS FILE WAS AUTO-GENERATED FROM A SCRIPT: apache_redirects.py
 #
+# See https://github.com/martyngigg/doc-tools/edit/master/apache_redirects.py
 """
 
 # Format the file in to two columns by finding the longest name
